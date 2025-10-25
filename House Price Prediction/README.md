@@ -18,5 +18,6 @@ This project predicts house prices using linear regression, focusing on understa
 1. Open `house_price_prediction.ipynb`.
 2. Run all cells sequentially to see model training and results.
 
-**Demo Video:** [Click to watch](./demo.mp4)
+**Demo Video:**
+Watch the demo video here: [Demo Video](https://drive.google.com/file/d/1IcRc9lQuxNtQ06oFmg782mrD2EQCmAOg/view?usp=sharing)
 
