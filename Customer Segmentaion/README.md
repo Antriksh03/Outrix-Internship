@@ -18,5 +18,6 @@ This project segments customers based on annual income and spending score using 
 1. Open `customer_segmentation.ipynb`.
 2. Run all cells to generate clustering results and visualizations.
 
-**Demo Video:** [Click to watch](./demo.mp4)
+**Demo Video:**
+Watch the demo video here: [Demo Video](https://drive.google.com/file/d/1TDGgBmSOprEAxbdSsMzXAvZdtp8B4WWO/view?usp=sharing)
 
