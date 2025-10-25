@@ -17,5 +17,6 @@ This project analyzes student performance data to explore how factors such as ge
 1. Open `student_performance.ipynb` in Jupyter Notebook.
 2. Run all cells to reproduce the analysis.
 
-**Demo Video:** [Click to watch](./demo.mp4)
+**Demo Video:**
+Watch the demo video here: [Demo Video](https://drive.google.com/file/d/1wb3dkMucU3phRFAET3aLoSMN3g_q0trm/view?usp=sharing)
 
